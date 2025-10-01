@@ -1,0 +1,5 @@
+console.log("This is the way you are directed to use")
+console.log("To enjoy this project:-")
+console.log("1.) Downlaod or copy the Respiratory")
+console.log("2.) Run = Cargo run") 
+console.log("3.) Enjoy just close the terminal to stop this.")
