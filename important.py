@@ -1,5 +1,5 @@
   print("This is the way you are directed to use")
-  print("If you don't have Go installed read extra.md")
+  print("If you don't have Python installed read extra.md")
   print("To enjoy this project:-")
   print("1.) Downlaod or copy the Respiratory")
   print("2.) Run = Cargo run")
